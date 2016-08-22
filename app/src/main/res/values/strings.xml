@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Palette</string>
+    <string name="board">画板</string>
+    <string name="save_as_png">另存为png</string>
+    <string name="save_as_svg">另存为svg</string>
+</resources>
